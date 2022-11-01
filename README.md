@@ -18,4 +18,4 @@ Run it with ./fractol [fractal]. Fractals are: mandelbrot, julia, burningship an
 
 ![alt text](https://github.com/NikoGardziella/Fractol/blob/main/Screen%20Shot%202022-10-26%20at%2010.06.02.png?raw=true)
 
-![alt text](https://github.com/NikoGardziella/Fractol/blob/main/Screen%20Shot%202022-10-26%20at%2010.06.36.pngg?raw=true)
+![alt text](https://github.com/NikoGardziella/Fractol/blob/main/Screen%20Shot%202022-10-26%20at%2010.06.36.png?raw=true)
